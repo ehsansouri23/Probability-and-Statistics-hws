@@ -15,7 +15,7 @@ for untilNow in range(1, n + 1):
     x[untilNow] = untilNow
     y[untilNow] = head / untilNow
 
-print("Head = %s   ,   Tail = %s   Head / Tail = %s   n = %s" % (head, tail, y[n], n))
+print("Head = %s  ,  Tail = %s  ,  n = %s" % (head, tail, n))
 
 plt.title("Y = (Head / Flip) , X = Flip")
 plt.plot(x.values(), y.values(), color='red', scalex=1)
