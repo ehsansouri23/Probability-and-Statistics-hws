@@ -1,0 +1,2 @@
+# Probability-and-Statistics-hws
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b0d5a077e5e04459be7a0a9514454083)](https://app.codacy.com/app/ehsansouri23/Probability-and-Statistics-hws?utm_source=github.com&utm_medium=referral&utm_content=ehsansouri23/Probability-and-Statistics-hws&utm_campaign=Badge_Grade_Dashboard)
